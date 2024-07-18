@@ -1,34 +1,34 @@
-第 2 课：Go 基础知识
+第 2 課：Go 基礎知識
 ==========================
 
-### 基本信息
+### 基本訊息
 
-- **课程时长**：14:21
-- **在线观看**：[哔哩哔哩](https://www.bilibili.com/video/BV13L4y1z7ht/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421013&courseId=306002)
+- **課程時長**：14:21
+- **線上觀看**：[嗶哩嗶哩](https://www.bilibili.com/video/BV13L4y1z7ht/) [網易雲課堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421013&courseId=306002)
 
-### 课程大纲
+### 課程大綱
 
-	[00:00] 课堂笔记的使用方法
-	[01:36] Go内置关键字和注释方法
-	[02:08] Go程序的一般结构
-	[07:25] 包的导入
-	[09:43] package别名与省略调用
-	[11:45] 可见性规则
-	[13:53] 课堂作业布置
+	[00:00] 課堂筆記的使用方法
+	[01:36] Go內建關鍵字和註解方法
+	[02:08] Go程式的一般結構
+	[07:25] 套件的匯入
+	[09:43] package別名與省略呼叫
+	[11:45] 可見性規則
+	[13:53] 課堂作業佈置
 	
-### 作业答案
+### 作業答案
 
-- 下堂课讲解
+- 下堂課講解
 
-### 补充说明
+### 補充說明
 
-- gosublime 调出内置命令行快捷键 Ctrl+B(windows)
+- gosublime 調出內建指令行快捷鍵 Ctrl+B(windows)
 
-### 相关链接
+### 相關連結
 
-- 暂无链接
+- 暫無連結
 
-### 课程链接
+### 課程連結
 
-- [第 1 课：Go 开发环境搭建](lecture1.md)
-- [第 3 课：类型与变量](lecture3.md)
+- [第 1 課：Go 開發環境搭建](lecture1.md)
+- [第 3 課：型別與變數](lecture3.md)

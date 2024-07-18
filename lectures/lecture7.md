@@ -1,34 +1,34 @@
-第 7 课：切片 slice
+第 7 課：切片 slice
 ==========================
 
-### 基本信息
+### 基本訊息
 
-- **课程时长**：34:51
-- **在线观看**：[哔哩哔哩](https://www.bilibili.com/video/BV1aP4y1L7hm/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421018&courseId=306002)
+- **課程時長**：34:51
+- **線上觀看**：[嗶哩嗶哩](https://www.bilibili.com/video/BV1aP4y1L7hm/) [網易雲課堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421018&courseId=306002)
 
-### 课程大纲
+### 課程大綱
 
-	[00:00] 知识回顾
+	[00:00] 知識回顧
 	[03:15] slice 概述
-	[05:20] 创建 slice
+	[05:20] 建立 slice
 	[18:25] reslice 概述
-	[23:00] append()与slice
-	[29:55] copy()与slice
-	[33:55] 课堂作业布置
+	[23:00] append()與slice
+	[29:55] copy()與slice
+	[33:55] 課堂作業佈置
 	
-### 作业答案
+### 作業答案
 
-- 下堂课讲解
+- 下堂課講解
 
-### 补充说明
+### 補充說明
 
-- 26:37 处的“数组” a 实际为切片，但不影响教程演示。若想其成为数组，应把 `[]` 改为 `[...]`。
+- 26:37 處的『陣列』 a 實際為切片，但不影響教程示範。若想其成為陣列，應把 `[]` 改為 `[...]`。
 
-### 相关链接
+### 相關連結
 
-- 暂无链接
+- 暫無連結
 
-### 课程链接
+### 課程連結
 
-- [第 6 课：数组 array](lecture6.md)
-- [第 8 课：map](lecture8.md)
+- [第 6 課：陣列 array](lecture6.md)
+- [第 8 課：map](lecture8.md)

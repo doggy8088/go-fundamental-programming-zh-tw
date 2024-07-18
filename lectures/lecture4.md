@@ -1,32 +1,32 @@
-第 4 课：常量与运算符
+第 4 課：常數與運算符
 ==========================
 
-### 基本信息
+### 基本訊息
 
-- **课程时长**：28:21
-- **在线观看**：[哔哩哔哩](https://www.bilibili.com/video/BV13u411o7VR/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421015&courseId=306002)
+- **課程時長**：28:21
+- **線上觀看**：[嗶哩嗶哩](https://www.bilibili.com/video/BV13u411o7VR/) [網易雲課堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421015&courseId=306002)
 
-### 课程大纲
+### 課程大綱
 
-	[00:00] 知识回顾
-	[04:35] 常量的定义
-	[11:30] 常量的枚举
-	[17:05] 运算符
-	[27:45] 课堂作业布置
+	[00:00] 知識回顧
+	[04:35] 常數的定義
+	[11:30] 常數的列舉
+	[17:05] 運算符
+	[27:45] 課堂作業佈置
 	
-### 作业答案
+### 作業答案
 
-- 下堂课讲解
+- 下堂課講解
 
-### 补充说明
+### 補充說明
 
-- [《Go 编程基础》视频第 4 课： 常量与运算符 笔记](http://www.cnblogs.com/ghj1976/archive/2013/04/24/3039578.html)
+- [《Go 程式設計基礎》影片第 4 課： 常數與運算符 筆記](http://www.cnblogs.com/ghj1976/archive/2013/04/24/3039578.html)
 
-### 相关链接
+### 相關連結
 
-- 暂无链接
+- 暫無連結
 
-### 课程链接
+### 課程連結
 
-- [第 3 课：类型与变量](lecture3.md)
-- [第 5 课：控制语句](lecture5.md)
+- [第 3 課：型別與變數](lecture3.md)
+- [第 5 課：控制語句](lecture5.md)

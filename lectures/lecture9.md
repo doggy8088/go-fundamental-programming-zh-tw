@@ -1,36 +1,36 @@
-第 9 课：函数 function
+第 9 課：函式 function
 ==========================
 
-### 基本信息
+### 基本訊息
 
-- **课程时长**：28:30
-- **在线观看**：[哔哩哔哩](https://www.bilibili.com/video/BV18L411g77S/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421020&courseId=306002)
+- **課程時長**：28:30
+- **線上觀看**：[嗶哩嗶哩](https://www.bilibili.com/video/BV18L411g77S/) [網易雲課堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421020&courseId=306002)
 
-### 课程大纲
+### 課程大綱
 
-	[00:00] 知识回顾
-	[03:50] 函数概述
-	[05:00] 函数的定义与使用
-	[08:00] 不定长变参
-	[10:52] 传递值类型和引用类型
-	[13:20] 匿名函数与闭包
+	[00:00] 知識回顧
+	[03:50] 函式概述
+	[05:00] 函式的定義與使用
+	[08:00] 不定長變參
+	[10:52] 傳遞值型別和引用型別
+	[13:20] 匿名函式與閉包
 	[18:15] defer 用法
-	[23:06] panic 与 recover
-	[28:06] 课堂作业布置
+	[23:06] panic 與 recover
+	[28:06] 課堂作業佈置
 	
-### 作业答案
+### 作業答案
 
-- 下堂课讲解
+- 下堂課講解
 
-### 补充说明
+### 補充說明
 
-- 暂无说明
+- 暫無說明
 
-### 相关链接
+### 相關連結
 
-- 暂无链接
+- 暫無連結
 
-### 课程链接
+### 課程連結
 
-- [第 8 课：map](lecture8.md)
-- [第 10 课：结构 struct](lecture10.md)
+- [第 8 課：map](lecture8.md)
+- [第 10 課：結構 struct](lecture10.md)
